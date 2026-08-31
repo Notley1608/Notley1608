@@ -1,27 +1,153 @@
-<h1 align="center">Hi 👋, I'm Oscar</h1>
-<h3 align="center">Welsh and proud full stack engineer</h3>
+# Hey, I'm Notley 👋
 
-- 🔭 I’m currently working on [Personal finance tracker](https://github.com/Notley1608/Finance_Tracker)
+### Full-Stack Software Engineer
 
-- 🌱 I’m currently learning **AWS/GCP and keeping my skills sharp**
+I build full-stack applications with a focus on **modern frontend architecture, scalable backends, and cloud infrastructure**.
 
-- 👯 I’m always looking for **opportunities to learn**
+I'm particularly interested in the trade-offs behind the tools we use every day — **React vs Vue, Node.js vs Bun**, and everything in between. I enjoy experimenting, building things from scratch, and putting myself in the cave of learning.
 
-- 👨‍💻 All of my projects are available at [https://github.com/Notley1608](https://github.com/Notley1608)
+---
 
-- 💬 Ask me about **React vs Vue, Bun vs Node**
+## 🧑‍💻 About Me
 
-- 📫 How to reach me **oscarnotley@hotmail.co.uk**
+* 🚀 Full-stack software engineer focused on modern web development
+* 🎨 Frontend enthusiast — React & Vue ecosystems
+* ⚙️ Backend development with Node.js, Bun & Python
+* ☁️ Currently deepening my **AWS, GCP & cloud engineering** knowledge
+* 🧠 Always working on strengthening the fundamentals behind my current stack
+* 💬 Always happy to debate **React vs Vue** or **Node vs Bun**
+* 🤝 Open to collaborating on interesting projects, experiments, and learning opportunities
+* 🔨 Currently building **[Finance Tracker](https://github.com/Notley1608/Finance_Tracker)**
 
-- ⚡ Fun fact **I have a grade 8 distinction on the Tuba**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/oscar-notley" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oscar-notley" height="30" width="40" /></a>
+## ⚡ Tech Stack
+
+### Frontend
+
+![Vue](https://img.shields.io/badge/Vue-35495E?style=for-the-badge\&logo=vue.js\&logoColor=4FC08D)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js\&logoColor=white)
+![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge\&logo=nuxt.js\&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0F172A?style=for-the-badge\&logo=tailwind-css\&logoColor=38BDF8)
+
+### State Management
+
+![Pinia](https://img.shields.io/badge/Pinia-F6C445?style=for-the-badge\&logo=pinia\&logoColor=111827)
+![Zustand](https://img.shields.io/badge/Zustand-443E38?style=for-the-badge)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge\&logo=redux\&logoColor=white)
+
+### Languages
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+
+### Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
+![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge\&logo=bun\&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge\&logo=express\&logoColor=white)
+![Elysia](https://img.shields.io/badge/Elysia-000000?style=for-the-badge)
+
+### Databases
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge\&logo=sqlite\&logoColor=white)
+
+### DevOps & Cloud
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazon-aws\&logoColor=FF9900)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge\&logo=google-cloud\&logoColor=white)
+
+---
+
+## 🚧 Currently Building
+
+### 💰 Finance Tracker
+
+A full-stack finance tracking application currently under active development.
+
+**Goal:** Build something genuinely useful while experimenting with architecture, application design, data modelling, and deployment.
+
+👉 **[View the project →](https://github.com/Notley1608/Finance_Tracker)**
+
+---
+
+## 🧪 Things I'm Exploring
+
+```text
+React        ────────────────┐
+Vue          ────────────────┤
+                             ├── Which one wins?
+Node.js      ────────────────┤
+Bun          ────────────────┘
+```
+
+I enjoy exploring the **trade-offs**, not just picking whatever is currently popular.
+
+Some questions I'm interested in:
+
+* ⚛️ React vs Vue — ecosystem, DX, performance & architecture
+* 🥟 Node.js vs Bun — runtime performance, tooling & developer experience
+* ☁️ Cloud architecture — learning how applications scale beyond the local machine
+* 🏗️ Full-stack architecture — keeping complexity under control as projects grow
+* 📦 TypeScript — pushing type safety further across the entire stack
+
+If you have strong opinions about any of these, **I probably want to hear them.**
+
+---
+
+## 🌱 Currently Learning
+
+I'm currently focusing on:
+
+**☁️ Cloud Engineering**
+
+Going deeper into AWS and GCP while improving my understanding of deployment, infrastructure, scalability, networking, and the systems that sit underneath modern applications.
+
+At the same time, I'm continuously deepening my existing frontend and backend skills rather than endlessly chasing new technologies.
+
+---
+
+## 🤝 Let's Build Something
+
+I'm always open to collaborating on:
+
+* 🚀 Interesting side projects
+* 🧪 Technical experiments
+* 💡 Weird ideas that might actually work
+* 📚 Projects where we can learn something new
+* 🏗️ Full-stack applications
+* ☁️ Cloud & infrastructure experiments
+
+You don't need to have everything figured out.
+
+**If there's something cool you'd like to build or learn, let's talk.**
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Notley1608&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Notley1608&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Notley1608&theme=tokyonight&hide_border=true" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=notley1608&show_icons=true&locale=en" alt="notley1608" /></p>
+---
+
+<p align="center">
+  <b>Build. Break. Learn. Repeat.</b>
+</p>
+
+<p align="center">
+  <i>Always building, always learning.</i>
+</p>
 Ï
