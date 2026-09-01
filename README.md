@@ -17,7 +17,7 @@ I'm particularly interested in the trade-offs behind the tools we use every day 
 * 🧠 Always working on strengthening the fundamentals behind my current stack
 * 💬 Always happy to debate **React vs Vue** or **Node vs Bun**
 * 🤝 Open to collaborating on interesting projects, experiments, and learning opportunities
-* 🔨 Currently building **[Finance Tracker](https://github.com/Notley1608/Finance_Tracker)**
+* 🔨 Currently building **[Finance Tracker](https://github.com/Notley1608/Finance_Tracker)** **[Discord Bot](https://github.com/Notley1608/Discord_Bot)**
 
 ---
 
@@ -74,6 +74,14 @@ A full-stack finance tracking application currently under active development.
 **Goal:** Build something genuinely useful while experimenting with architecture, application design, data modelling, and deployment.
 
 👉 **[View the project →](https://github.com/Notley1608/Finance_Tracker)**
+
+### Discord Bot
+
+Pure Node.js and Typescript project messing around with discord bots.
+
+**Goal:** Test out some integrations and webhooks to see how a discord bot could improve my life.
+
+👉 **[View the project →](https://github.com/Notley1608/Discord_Bot)**
 
 ---
 
